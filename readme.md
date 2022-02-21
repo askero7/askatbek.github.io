@@ -1,3 +1,3 @@
 # Deployed Link
 
-# askatbek.github.io
+# https://askero7.github.io/askatbek.github.io/
